@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sink-into-my-space/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Sink Into My Space](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sink-into-my-space/) |
+| **Get License** | [Request Licensing for Sink Into My Space](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sink-into-my-space/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6ca4dc89123e6797f8069c64b27f6c5cd9bff4bbea32b0e275bd0f2acdec423d` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
