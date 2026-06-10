@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sink-into-my-space/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sink Into My Space](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sink-into-my-space/) |
+| **Get License** | [Commercial Licensing for Sink Into My Space](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sink-into-my-space/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Close the door and let the shadows fall
+> Leave the heavy world outside the wall
+> Sink into my space and cross the line
+> Cross the line
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
